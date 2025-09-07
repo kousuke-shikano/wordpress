@@ -1,0 +1,19 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Config file
+wp-config.php
+
+# Cache, logs, uploads
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+
+# OS & editor files
+.DS_Store
+*.swp
+
+# Optional: plugins and themes if you don't want to track all
+# wp-content/plugins/
+# wp-content/themes/
